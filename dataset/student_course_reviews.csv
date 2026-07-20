@@ -1,0 +1,301 @@
+Review_ID,Student_Name,Course_Name,Trainer_Name,Rating,Review,Sentiment,Review_Date
+1,Divya,SQL,Meena R,1,Course content was outdated.,Negative,2026-05-11
+2,Vimal,UI/UX Design,Kavitha S,4,Highly recommend this course.,Positive,2026-02-19
+3,Rahul,Data Analytics,Priya Sharma,5,Very useful course and supportive trainer.,Positive,2026-01-13
+4,Sneha,SQL,Sanjay Kumar,3,Content was okay.,Neutral,2026-02-11
+5,Rahul,Data Analytics,Sanjay Kumar,5,Very useful course and supportive trainer.,Positive,2026-02-18
+6,Priya,Python Full Stack,Meena R,2,Course content was outdated.,Negative,2026-02-22
+7,Divya,Machine Learning,Kavitha S,5,Loved the practical sessions.,Positive,2026-07-01
+8,Karthik,UI/UX Design,Vignesh R,5,Loved the practical sessions.,Positive,2026-07-16
+9,Anitha,UI/UX Design,Arun Kumar,4,Loved the practical sessions.,Positive,2026-03-11
+10,Kavin,React JS,Vignesh R,5,Excellent training with real-time projects.,Positive,2026-07-02
+11,Divya,Java Full Stack,Vignesh R,5,Highly recommend this course.,Positive,2026-03-23
+12,Vimal,SQL,Vignesh R,5,Very useful course and supportive trainer.,Positive,2026-01-04
+13,Priya,Power BI,Arun Kumar,4,Loved the practical sessions.,Positive,2026-03-04
+14,Priya,Power BI,Arun Kumar,5,Excellent training with real-time projects.,Positive,2026-04-08
+15,Karthik,Java Full Stack,Priya Sharma,4,Excellent training with real-time projects.,Positive,2026-02-16
+16,Anitha,Data Analytics,Meena R,5,Very useful course and supportive trainer.,Positive,2026-07-04
+17,Rahul,Java Full Stack,Priya Sharma,2,Not enough practical examples.,Negative,2026-04-15
+18,Kavin,Data Analytics,Kavitha S,5,Very useful course and supportive trainer.,Positive,2026-01-09
+19,Vimal,UI/UX Design,Priya Sharma,2,Trainer explained too fast.,Negative,2026-07-11
+20,Karthik,Power BI,Kavitha S,4,Loved the practical sessions.,Positive,2026-01-13
+21,Arjun,Data Analytics,Vignesh R,5,Excellent training with real-time projects.,Positive,2026-07-04
+22,Priya,SQL,Kavitha S,2,Trainer explained too fast.,Negative,2026-07-23
+23,Karthik,Data Analytics,Arun Kumar,5,Loved the practical sessions.,Positive,2026-04-24
+24,Nisha,Python Full Stack,Priya Sharma,5,Excellent training with real-time projects.,Positive,2026-01-18
+25,Priya,Java Full Stack,Vignesh R,3,Trainer was good but pace was moderate.,Neutral,2026-06-03
+26,Priya,UI/UX Design,Meena R,1,Course content was outdated.,Negative,2026-04-15
+27,Sneha,React JS,Priya Sharma,5,Excellent training with real-time projects.,Positive,2026-05-08
+28,Divya,Machine Learning,Meena R,5,Excellent training with real-time projects.,Positive,2026-04-11
+29,Priya,Java Full Stack,Priya Sharma,2,Trainer explained too fast.,Negative,2026-07-03
+30,Divya,Java Full Stack,Sanjay Kumar,5,Very useful course and supportive trainer.,Positive,2026-04-03
+31,Karthik,Python Full Stack,Arun Kumar,5,Highly recommend this course.,Positive,2026-03-10
+32,Anitha,SQL,Meena R,4,Highly recommend this course.,Positive,2026-01-01
+33,Karthik,React JS,Arun Kumar,3,Average experience overall.,Neutral,2026-01-01
+34,Anitha,Power BI,Meena R,4,Highly recommend this course.,Positive,2026-04-20
+35,Priya,Machine Learning,Meena R,4,Excellent training with real-time projects.,Positive,2026-06-11
+36,Rahul,Machine Learning,Meena R,3,Good course but needs more practical sessions.,Neutral,2026-03-23
+37,Nisha,Java Full Stack,Meena R,3,Trainer was good but pace was moderate.,Neutral,2026-01-25
+38,Arjun,Java Full Stack,Sanjay Kumar,3,Average experience overall.,Neutral,2026-03-10
+39,Arjun,React JS,Kavitha S,1,Doubts were not cleared properly.,Negative,2026-07-18
+40,Priya,React JS,Vignesh R,3,Content was okay.,Neutral,2026-07-09
+41,Karthik,UI/UX Design,Vignesh R,5,Loved the practical sessions.,Positive,2026-07-06
+42,Karthik,Data Analytics,Vignesh R,5,Loved the practical sessions.,Positive,2026-05-17
+43,Vimal,UI/UX Design,Arun Kumar,5,Very useful course and supportive trainer.,Positive,2026-01-17
+44,Vimal,Java Full Stack,Sanjay Kumar,3,Content was okay.,Neutral,2026-06-01
+45,Sneha,Python Full Stack,Priya Sharma,4,Excellent training with real-time projects.,Positive,2026-01-22
+46,Divya,React JS,Kavitha S,5,Very useful course and supportive trainer.,Positive,2026-06-14
+47,Sneha,Machine Learning,Vignesh R,5,Very useful course and supportive trainer.,Positive,2026-02-21
+48,Priya,Java Full Stack,Kavitha S,4,Highly recommend this course.,Positive,2026-02-27
+49,Karthik,UI/UX Design,Arun Kumar,5,Excellent training with real-time projects.,Positive,2026-01-05
+50,Vimal,Power BI,Vignesh R,5,Loved the practical sessions.,Positive,2026-04-28
+51,Divya,UI/UX Design,Kavitha S,5,Excellent training with real-time projects.,Positive,2026-05-07
+52,Divya,Python Full Stack,Arun Kumar,5,Highly recommend this course.,Positive,2026-07-27
+53,Kavin,Machine Learning,Kavitha S,1,Doubts were not cleared properly.,Negative,2026-04-05
+54,Rahul,Python Full Stack,Meena R,3,Good course but needs more practical sessions.,Neutral,2026-02-27
+55,Anitha,UI/UX Design,Arun Kumar,3,Content was okay.,Neutral,2026-01-20
+56,Rahul,UI/UX Design,Kavitha S,2,Course content was outdated.,Negative,2026-06-14
+57,Divya,Machine Learning,Kavitha S,1,Doubts were not cleared properly.,Negative,2026-05-18
+58,Divya,Python Full Stack,Meena R,4,Loved the practical sessions.,Positive,2026-04-17
+59,Nisha,UI/UX Design,Sanjay Kumar,5,Very useful course and supportive trainer.,Positive,2026-05-08
+60,Divya,React JS,Vignesh R,5,Loved the practical sessions.,Positive,2026-05-04
+61,Karthik,Power BI,Sanjay Kumar,2,Not enough practical examples.,Negative,2026-05-01
+62,Arjun,Machine Learning,Kavitha S,5,Loved the practical sessions.,Positive,2026-04-13
+63,Vimal,Python Full Stack,Priya Sharma,5,Highly recommend this course.,Positive,2026-01-09
+64,Karthik,React JS,Priya Sharma,5,Loved the practical sessions.,Positive,2026-06-18
+65,Nisha,UI/UX Design,Kavitha S,5,Excellent training with real-time projects.,Positive,2026-01-04
+66,Nisha,Power BI,Arun Kumar,2,Trainer explained too fast.,Negative,2026-06-24
+67,Vimal,Machine Learning,Meena R,3,Average experience overall.,Neutral,2026-04-05
+68,Kavin,Data Analytics,Priya Sharma,5,Very useful course and supportive trainer.,Positive,2026-01-20
+69,Sneha,React JS,Sanjay Kumar,4,Highly recommend this course.,Positive,2026-05-21
+70,Nisha,Data Analytics,Priya Sharma,2,Trainer explained too fast.,Negative,2026-01-25
+71,Sneha,UI/UX Design,Sanjay Kumar,5,Very useful course and supportive trainer.,Positive,2026-06-27
+72,Nisha,Machine Learning,Vignesh R,5,Very useful course and supportive trainer.,Positive,2026-05-11
+73,Anitha,Machine Learning,Priya Sharma,2,Trainer explained too fast.,Negative,2026-06-25
+74,Priya,Power BI,Arun Kumar,5,Very useful course and supportive trainer.,Positive,2026-01-23
+75,Arjun,Python Full Stack,Arun Kumar,4,Very useful course and supportive trainer.,Positive,2026-03-04
+76,Priya,Machine Learning,Sanjay Kumar,4,Loved the practical sessions.,Positive,2026-02-13
+77,Divya,Data Analytics,Sanjay Kumar,5,Very useful course and supportive trainer.,Positive,2026-05-20
+78,Anitha,Power BI,Priya Sharma,3,Average experience overall.,Neutral,2026-07-07
+79,Karthik,React JS,Arun Kumar,4,Highly recommend this course.,Positive,2026-04-18
+80,Sneha,Java Full Stack,Sanjay Kumar,1,Not enough practical examples.,Negative,2026-05-03
+81,Kavin,Data Analytics,Meena R,3,Average experience overall.,Neutral,2026-02-05
+82,Rahul,Python Full Stack,Priya Sharma,4,Very useful course and supportive trainer.,Positive,2026-04-25
+83,Kavin,SQL,Meena R,4,Loved the practical sessions.,Positive,2026-05-14
+84,Divya,React JS,Kavitha S,5,Loved the practical sessions.,Positive,2026-05-23
+85,Nisha,SQL,Kavitha S,4,Loved the practical sessions.,Positive,2026-01-02
+86,Rahul,Machine Learning,Arun Kumar,5,Very useful course and supportive trainer.,Positive,2026-01-09
+87,Karthik,UI/UX Design,Kavitha S,3,Trainer was good but pace was moderate.,Neutral,2026-02-14
+88,Anitha,Data Analytics,Meena R,5,Loved the practical sessions.,Positive,2026-02-02
+89,Priya,SQL,Arun Kumar,4,Very useful course and supportive trainer.,Positive,2026-05-10
+90,Kavin,Machine Learning,Arun Kumar,5,Excellent training with real-time projects.,Positive,2026-07-19
+91,Karthik,UI/UX Design,Sanjay Kumar,5,Highly recommend this course.,Positive,2026-02-03
+92,Sneha,Power BI,Priya Sharma,1,Not enough practical examples.,Negative,2026-03-05
+93,Priya,UI/UX Design,Arun Kumar,4,Excellent training with real-time projects.,Positive,2026-06-21
+94,Anitha,UI/UX Design,Vignesh R,3,Good course but needs more practical sessions.,Neutral,2026-03-03
+95,Sneha,Java Full Stack,Vignesh R,5,Excellent training with real-time projects.,Positive,2026-03-07
+96,Sneha,Java Full Stack,Kavitha S,5,Highly recommend this course.,Positive,2026-07-16
+97,Karthik,Java Full Stack,Vignesh R,3,Trainer was good but pace was moderate.,Neutral,2026-06-20
+98,Vimal,UI/UX Design,Kavitha S,3,Average experience overall.,Neutral,2026-06-20
+99,Rahul,UI/UX Design,Arun Kumar,5,Excellent training with real-time projects.,Positive,2026-05-19
+100,Nisha,UI/UX Design,Meena R,1,Course content was outdated.,Negative,2026-02-08
+101,Arjun,Machine Learning,Vignesh R,3,Content was okay.,Neutral,2026-07-07
+102,Vimal,SQL,Sanjay Kumar,4,Very useful course and supportive trainer.,Positive,2026-01-03
+103,Rahul,UI/UX Design,Sanjay Kumar,4,Excellent training with real-time projects.,Positive,2026-01-18
+104,Vimal,UI/UX Design,Priya Sharma,1,Course content was outdated.,Negative,2026-06-09
+105,Sneha,React JS,Priya Sharma,4,Loved the practical sessions.,Positive,2026-07-26
+106,Divya,SQL,Arun Kumar,4,Excellent training with real-time projects.,Positive,2026-06-20
+107,Divya,Python Full Stack,Kavitha S,5,Highly recommend this course.,Positive,2026-02-05
+108,Kavin,Python Full Stack,Arun Kumar,3,Good course but needs more practical sessions.,Neutral,2026-05-01
+109,Divya,SQL,Vignesh R,4,Very useful course and supportive trainer.,Positive,2026-02-03
+110,Kavin,React JS,Meena R,5,Loved the practical sessions.,Positive,2026-02-14
+111,Sneha,Java Full Stack,Arun Kumar,4,Loved the practical sessions.,Positive,2026-06-05
+112,Arjun,UI/UX Design,Vignesh R,4,Loved the practical sessions.,Positive,2026-02-14
+113,Anitha,Java Full Stack,Sanjay Kumar,5,Very useful course and supportive trainer.,Positive,2026-02-15
+114,Vimal,Power BI,Kavitha S,1,Not enough practical examples.,Negative,2026-07-06
+115,Sneha,Java Full Stack,Vignesh R,5,Excellent training with real-time projects.,Positive,2026-02-15
+116,Anitha,Data Analytics,Meena R,4,Loved the practical sessions.,Positive,2026-02-03
+117,Arjun,Java Full Stack,Arun Kumar,5,Loved the practical sessions.,Positive,2026-05-04
+118,Nisha,Python Full Stack,Kavitha S,4,Highly recommend this course.,Positive,2026-04-06
+119,Kavin,Machine Learning,Kavitha S,3,Trainer was good but pace was moderate.,Neutral,2026-04-21
+120,Kavin,UI/UX Design,Priya Sharma,4,Excellent training with real-time projects.,Positive,2026-05-06
+121,Arjun,React JS,Kavitha S,5,Excellent training with real-time projects.,Positive,2026-07-21
+122,Rahul,UI/UX Design,Vignesh R,5,Very useful course and supportive trainer.,Positive,2026-06-15
+123,Sneha,Python Full Stack,Meena R,3,Average experience overall.,Neutral,2026-02-02
+124,Anitha,UI/UX Design,Kavitha S,2,Doubts were not cleared properly.,Negative,2026-03-10
+125,Nisha,Java Full Stack,Kavitha S,2,Doubts were not cleared properly.,Negative,2026-02-01
+126,Sneha,Python Full Stack,Meena R,2,Not enough practical examples.,Negative,2026-04-01
+127,Anitha,Power BI,Arun Kumar,3,Trainer was good but pace was moderate.,Neutral,2026-07-24
+128,Nisha,Machine Learning,Arun Kumar,5,Excellent training with real-time projects.,Positive,2026-05-15
+129,Arjun,Power BI,Kavitha S,3,Trainer was good but pace was moderate.,Neutral,2026-07-19
+130,Divya,Machine Learning,Sanjay Kumar,5,Loved the practical sessions.,Positive,2026-07-05
+131,Sneha,UI/UX Design,Sanjay Kumar,5,Highly recommend this course.,Positive,2026-05-05
+132,Divya,React JS,Kavitha S,2,Doubts were not cleared properly.,Negative,2026-07-11
+133,Vimal,Data Analytics,Kavitha S,4,Very useful course and supportive trainer.,Positive,2026-05-02
+134,Nisha,Power BI,Meena R,4,Very useful course and supportive trainer.,Positive,2026-02-10
+135,Anitha,Java Full Stack,Vignesh R,5,Excellent training with real-time projects.,Positive,2026-03-20
+136,Karthik,UI/UX Design,Vignesh R,4,Excellent training with real-time projects.,Positive,2026-01-09
+137,Anitha,Power BI,Kavitha S,1,Doubts were not cleared properly.,Negative,2026-03-07
+138,Sneha,React JS,Vignesh R,2,Trainer explained too fast.,Negative,2026-05-09
+139,Divya,Java Full Stack,Meena R,5,Loved the practical sessions.,Positive,2026-02-01
+140,Divya,Machine Learning,Meena R,4,Excellent training with real-time projects.,Positive,2026-01-14
+141,Nisha,Machine Learning,Meena R,1,Doubts were not cleared properly.,Negative,2026-02-19
+142,Kavin,UI/UX Design,Kavitha S,3,Good course but needs more practical sessions.,Neutral,2026-01-05
+143,Anitha,UI/UX Design,Kavitha S,4,Very useful course and supportive trainer.,Positive,2026-03-23
+144,Karthik,React JS,Priya Sharma,5,Excellent training with real-time projects.,Positive,2026-01-18
+145,Nisha,Java Full Stack,Arun Kumar,3,Good course but needs more practical sessions.,Neutral,2026-06-19
+146,Arjun,Python Full Stack,Kavitha S,4,Loved the practical sessions.,Positive,2026-04-06
+147,Anitha,Data Analytics,Sanjay Kumar,5,Highly recommend this course.,Positive,2026-06-12
+148,Priya,Power BI,Sanjay Kumar,5,Loved the practical sessions.,Positive,2026-07-12
+149,Vimal,Machine Learning,Kavitha S,5,Very useful course and supportive trainer.,Positive,2026-07-05
+150,Priya,Machine Learning,Vignesh R,3,Average experience overall.,Neutral,2026-02-11
+151,Karthik,Data Analytics,Meena R,1,Trainer explained too fast.,Negative,2026-05-13
+152,Vimal,Data Analytics,Sanjay Kumar,2,Course content was outdated.,Negative,2026-01-24
+153,Rahul,React JS,Sanjay Kumar,4,Excellent training with real-time projects.,Positive,2026-04-10
+154,Rahul,React JS,Vignesh R,1,Course content was outdated.,Negative,2026-05-22
+155,Vimal,SQL,Meena R,2,Trainer explained too fast.,Negative,2026-02-23
+156,Rahul,UI/UX Design,Vignesh R,3,Trainer was good but pace was moderate.,Neutral,2026-03-13
+157,Sneha,Data Analytics,Vignesh R,3,Trainer was good but pace was moderate.,Neutral,2026-03-07
+158,Anitha,Power BI,Vignesh R,5,Loved the practical sessions.,Positive,2026-01-06
+159,Karthik,Python Full Stack,Vignesh R,2,Trainer explained too fast.,Negative,2026-05-20
+160,Vimal,React JS,Priya Sharma,3,Trainer was good but pace was moderate.,Neutral,2026-02-20
+161,Arjun,Power BI,Kavitha S,4,Highly recommend this course.,Positive,2026-01-13
+162,Priya,Python Full Stack,Arun Kumar,3,Good course but needs more practical sessions.,Neutral,2026-07-28
+163,Priya,SQL,Sanjay Kumar,5,Loved the practical sessions.,Positive,2026-02-02
+164,Nisha,UI/UX Design,Sanjay Kumar,1,Course content was outdated.,Negative,2026-01-09
+165,Sneha,Data Analytics,Meena R,4,Excellent training with real-time projects.,Positive,2026-07-20
+166,Anitha,Python Full Stack,Vignesh R,1,Course content was outdated.,Negative,2026-05-05
+167,Kavin,Python Full Stack,Priya Sharma,4,Very useful course and supportive trainer.,Positive,2026-06-03
+168,Rahul,Data Analytics,Meena R,3,Trainer was good but pace was moderate.,Neutral,2026-07-17
+169,Rahul,Python Full Stack,Arun Kumar,5,Highly recommend this course.,Positive,2026-06-25
+170,Vimal,Machine Learning,Sanjay Kumar,4,Loved the practical sessions.,Positive,2026-07-14
+171,Nisha,React JS,Vignesh R,3,Content was okay.,Neutral,2026-06-21
+172,Arjun,Data Analytics,Arun Kumar,3,Good course but needs more practical sessions.,Neutral,2026-04-25
+173,Nisha,Java Full Stack,Priya Sharma,5,Loved the practical sessions.,Positive,2026-02-19
+174,Kavin,React JS,Arun Kumar,3,Average experience overall.,Neutral,2026-05-23
+175,Divya,SQL,Priya Sharma,2,Course content was outdated.,Negative,2026-07-03
+176,Priya,UI/UX Design,Vignesh R,4,Excellent training with real-time projects.,Positive,2026-06-10
+177,Divya,React JS,Meena R,2,Trainer explained too fast.,Negative,2026-07-11
+178,Priya,Python Full Stack,Sanjay Kumar,3,Average experience overall.,Neutral,2026-02-19
+179,Nisha,Data Analytics,Meena R,3,Content was okay.,Neutral,2026-01-22
+180,Anitha,React JS,Kavitha S,1,Trainer explained too fast.,Negative,2026-06-03
+181,Divya,UI/UX Design,Meena R,3,Trainer was good but pace was moderate.,Neutral,2026-02-17
+182,Anitha,Python Full Stack,Vignesh R,2,Trainer explained too fast.,Negative,2026-07-05
+183,Kavin,Python Full Stack,Arun Kumar,1,Trainer explained too fast.,Negative,2026-03-13
+184,Sneha,Python Full Stack,Arun Kumar,4,Excellent training with real-time projects.,Positive,2026-01-07
+185,Arjun,Data Analytics,Arun Kumar,5,Loved the practical sessions.,Positive,2026-04-22
+186,Vimal,React JS,Meena R,5,Highly recommend this course.,Positive,2026-05-20
+187,Karthik,Machine Learning,Arun Kumar,4,Loved the practical sessions.,Positive,2026-01-17
+188,Sneha,SQL,Meena R,5,Highly recommend this course.,Positive,2026-07-02
+189,Arjun,React JS,Priya Sharma,3,Content was okay.,Neutral,2026-02-22
+190,Sneha,Python Full Stack,Vignesh R,4,Loved the practical sessions.,Positive,2026-02-21
+191,Rahul,UI/UX Design,Arun Kumar,5,Highly recommend this course.,Positive,2026-06-27
+192,Kavin,SQL,Sanjay Kumar,5,Highly recommend this course.,Positive,2026-04-12
+193,Karthik,Java Full Stack,Priya Sharma,4,Very useful course and supportive trainer.,Positive,2026-06-11
+194,Arjun,Machine Learning,Meena R,2,Trainer explained too fast.,Negative,2026-05-14
+195,Kavin,Machine Learning,Priya Sharma,5,Highly recommend this course.,Positive,2026-05-24
+196,Sneha,Python Full Stack,Priya Sharma,5,Excellent training with real-time projects.,Positive,2026-06-16
+197,Kavin,React JS,Sanjay Kumar,1,Not enough practical examples.,Negative,2026-03-13
+198,Nisha,Machine Learning,Priya Sharma,4,Very useful course and supportive trainer.,Positive,2026-02-27
+199,Priya,React JS,Vignesh R,5,Loved the practical sessions.,Positive,2026-04-10
+200,Divya,UI/UX Design,Arun Kumar,2,Not enough practical examples.,Negative,2026-07-05
+201,Karthik,SQL,Sanjay Kumar,4,Very useful course and supportive trainer.,Positive,2026-05-20
+202,Karthik,Power BI,Priya Sharma,5,Excellent training with real-time projects.,Positive,2026-01-07
+203,Vimal,Java Full Stack,Priya Sharma,4,Excellent training with real-time projects.,Positive,2026-01-19
+204,Rahul,Machine Learning,Sanjay Kumar,5,Highly recommend this course.,Positive,2026-01-05
+205,Arjun,SQL,Sanjay Kumar,3,Good course but needs more practical sessions.,Neutral,2026-05-12
+206,Karthik,Power BI,Kavitha S,3,Good course but needs more practical sessions.,Neutral,2026-07-07
+207,Rahul,UI/UX Design,Priya Sharma,5,Very useful course and supportive trainer.,Positive,2026-06-15
+208,Anitha,Java Full Stack,Arun Kumar,5,Highly recommend this course.,Positive,2026-03-15
+209,Nisha,Machine Learning,Vignesh R,4,Highly recommend this course.,Positive,2026-04-27
+210,Vimal,Python Full Stack,Kavitha S,5,Excellent training with real-time projects.,Positive,2026-05-16
+211,Anitha,UI/UX Design,Meena R,4,Loved the practical sessions.,Positive,2026-04-16
+212,Kavin,UI/UX Design,Kavitha S,4,Excellent training with real-time projects.,Positive,2026-06-06
+213,Divya,Python Full Stack,Priya Sharma,5,Very useful course and supportive trainer.,Positive,2026-04-11
+214,Priya,React JS,Kavitha S,5,Highly recommend this course.,Positive,2026-03-10
+215,Karthik,UI/UX Design,Kavitha S,1,Doubts were not cleared properly.,Negative,2026-06-07
+216,Anitha,Java Full Stack,Sanjay Kumar,3,Good course but needs more practical sessions.,Neutral,2026-01-09
+217,Priya,React JS,Sanjay Kumar,5,Highly recommend this course.,Positive,2026-06-21
+218,Anitha,Python Full Stack,Priya Sharma,1,Doubts were not cleared properly.,Negative,2026-02-01
+219,Anitha,Java Full Stack,Kavitha S,3,Trainer was good but pace was moderate.,Neutral,2026-05-25
+220,Priya,SQL,Meena R,2,Doubts were not cleared properly.,Negative,2026-01-07
+221,Sneha,UI/UX Design,Arun Kumar,5,Loved the practical sessions.,Positive,2026-02-07
+222,Rahul,Power BI,Kavitha S,5,Very useful course and supportive trainer.,Positive,2026-01-12
+223,Priya,Power BI,Kavitha S,5,Loved the practical sessions.,Positive,2026-02-28
+224,Kavin,Java Full Stack,Priya Sharma,4,Highly recommend this course.,Positive,2026-05-27
+225,Divya,Python Full Stack,Kavitha S,3,Trainer was good but pace was moderate.,Neutral,2026-03-05
+226,Divya,Power BI,Kavitha S,4,Highly recommend this course.,Positive,2026-07-20
+227,Nisha,UI/UX Design,Vignesh R,4,Very useful course and supportive trainer.,Positive,2026-04-17
+228,Karthik,UI/UX Design,Vignesh R,3,Good course but needs more practical sessions.,Neutral,2026-06-16
+229,Sneha,Data Analytics,Arun Kumar,4,Excellent training with real-time projects.,Positive,2026-02-05
+230,Sneha,SQL,Vignesh R,5,Very useful course and supportive trainer.,Positive,2026-06-20
+231,Kavin,React JS,Kavitha S,4,Excellent training with real-time projects.,Positive,2026-04-08
+232,Nisha,Java Full Stack,Arun Kumar,5,Excellent training with real-time projects.,Positive,2026-07-10
+233,Karthik,Java Full Stack,Meena R,2,Not enough practical examples.,Negative,2026-05-17
+234,Arjun,Power BI,Vignesh R,4,Excellent training with real-time projects.,Positive,2026-04-24
+235,Kavin,React JS,Kavitha S,5,Excellent training with real-time projects.,Positive,2026-06-28
+236,Sneha,UI/UX Design,Meena R,5,Very useful course and supportive trainer.,Positive,2026-07-09
+237,Arjun,Python Full Stack,Priya Sharma,4,Excellent training with real-time projects.,Positive,2026-05-23
+238,Priya,React JS,Vignesh R,3,Average experience overall.,Neutral,2026-01-06
+239,Karthik,SQL,Priya Sharma,4,Excellent training with real-time projects.,Positive,2026-07-12
+240,Arjun,React JS,Vignesh R,5,Very useful course and supportive trainer.,Positive,2026-01-15
+241,Karthik,Power BI,Vignesh R,4,Loved the practical sessions.,Positive,2026-02-07
+242,Sneha,React JS,Meena R,1,Not enough practical examples.,Negative,2026-07-07
+243,Rahul,UI/UX Design,Sanjay Kumar,3,Average experience overall.,Neutral,2026-05-27
+244,Anitha,Python Full Stack,Meena R,5,Excellent training with real-time projects.,Positive,2026-05-15
+245,Sneha,Python Full Stack,Arun Kumar,4,Very useful course and supportive trainer.,Positive,2026-07-07
+246,Arjun,Python Full Stack,Priya Sharma,4,Highly recommend this course.,Positive,2026-04-03
+247,Vimal,UI/UX Design,Sanjay Kumar,1,Course content was outdated.,Negative,2026-07-01
+248,Rahul,Python Full Stack,Sanjay Kumar,4,Loved the practical sessions.,Positive,2026-01-10
+249,Kavin,Data Analytics,Kavitha S,5,Loved the practical sessions.,Positive,2026-05-06
+250,Priya,Data Analytics,Kavitha S,5,Loved the practical sessions.,Positive,2026-05-16
+251,Vimal,React JS,Priya Sharma,4,Very useful course and supportive trainer.,Positive,2026-05-03
+252,Rahul,Power BI,Arun Kumar,5,Excellent training with real-time projects.,Positive,2026-05-06
+253,Rahul,Machine Learning,Kavitha S,3,Trainer was good but pace was moderate.,Neutral,2026-07-09
+254,Divya,React JS,Kavitha S,3,Good course but needs more practical sessions.,Neutral,2026-05-26
+255,Anitha,Machine Learning,Sanjay Kumar,5,Excellent training with real-time projects.,Positive,2026-07-22
+256,Arjun,Power BI,Meena R,5,Highly recommend this course.,Positive,2026-04-16
+257,Kavin,SQL,Arun Kumar,2,Not enough practical examples.,Negative,2026-04-28
+258,Karthik,Python Full Stack,Vignesh R,5,Very useful course and supportive trainer.,Positive,2026-03-13
+259,Sneha,SQL,Kavitha S,1,Not enough practical examples.,Negative,2026-03-07
+260,Sneha,Java Full Stack,Priya Sharma,4,Excellent training with real-time projects.,Positive,2026-04-18
+261,Anitha,SQL,Priya Sharma,2,Trainer explained too fast.,Negative,2026-02-23
+262,Priya,Data Analytics,Priya Sharma,5,Very useful course and supportive trainer.,Positive,2026-02-25
+263,Divya,Data Analytics,Priya Sharma,4,Very useful course and supportive trainer.,Positive,2026-05-13
+264,Anitha,Power BI,Meena R,5,Very useful course and supportive trainer.,Positive,2026-02-11
+265,Vimal,Python Full Stack,Meena R,5,Highly recommend this course.,Positive,2026-07-12
+266,Divya,Python Full Stack,Meena R,4,Loved the practical sessions.,Positive,2026-03-01
+267,Sneha,Java Full Stack,Meena R,4,Loved the practical sessions.,Positive,2026-04-10
+268,Vimal,Python Full Stack,Priya Sharma,3,Trainer was good but pace was moderate.,Neutral,2026-05-20
+269,Rahul,Power BI,Sanjay Kumar,5,Excellent training with real-time projects.,Positive,2026-02-19
+270,Karthik,React JS,Kavitha S,1,Not enough practical examples.,Negative,2026-04-20
+271,Divya,Python Full Stack,Sanjay Kumar,5,Excellent training with real-time projects.,Positive,2026-04-10
+272,Sneha,Python Full Stack,Meena R,3,Average experience overall.,Neutral,2026-05-22
+273,Priya,Power BI,Vignesh R,4,Highly recommend this course.,Positive,2026-02-20
+274,Arjun,Machine Learning,Priya Sharma,3,Good course but needs more practical sessions.,Neutral,2026-04-11
+275,Rahul,Java Full Stack,Arun Kumar,2,Doubts were not cleared properly.,Negative,2026-07-18
+276,Anitha,Machine Learning,Priya Sharma,4,Very useful course and supportive trainer.,Positive,2026-01-24
+277,Priya,React JS,Arun Kumar,4,Loved the practical sessions.,Positive,2026-04-27
+278,Karthik,SQL,Kavitha S,2,Trainer explained too fast.,Negative,2026-02-18
+279,Rahul,Machine Learning,Kavitha S,3,Content was okay.,Neutral,2026-01-25
+280,Anitha,Machine Learning,Arun Kumar,2,Not enough practical examples.,Negative,2026-02-18
+281,Nisha,Power BI,Sanjay Kumar,1,Not enough practical examples.,Negative,2026-04-23
+282,Priya,Machine Learning,Meena R,3,Content was okay.,Neutral,2026-01-15
+283,Sneha,SQL,Arun Kumar,3,Good course but needs more practical sessions.,Neutral,2026-07-24
+284,Vimal,SQL,Vignesh R,5,Very useful course and supportive trainer.,Positive,2026-04-22
+285,Priya,SQL,Meena R,5,Very useful course and supportive trainer.,Positive,2026-05-05
+286,Divya,Java Full Stack,Kavitha S,4,Very useful course and supportive trainer.,Positive,2026-07-08
+287,Karthik,Python Full Stack,Arun Kumar,5,Excellent training with real-time projects.,Positive,2026-05-27
+288,Rahul,Java Full Stack,Arun Kumar,5,Highly recommend this course.,Positive,2026-02-01
+289,Karthik,Java Full Stack,Kavitha S,4,Very useful course and supportive trainer.,Positive,2026-01-05
+290,Karthik,Machine Learning,Vignesh R,1,Doubts were not cleared properly.,Negative,2026-01-16
+291,Anitha,Data Analytics,Meena R,1,Doubts were not cleared properly.,Negative,2026-04-07
+292,Karthik,UI/UX Design,Arun Kumar,3,Content was okay.,Neutral,2026-03-17
+293,Karthik,SQL,Sanjay Kumar,5,Loved the practical sessions.,Positive,2026-03-02
+294,Karthik,SQL,Vignesh R,4,Highly recommend this course.,Positive,2026-05-03
+295,Karthik,Machine Learning,Arun Kumar,3,Content was okay.,Neutral,2026-06-13
+296,Sneha,SQL,Vignesh R,4,Very useful course and supportive trainer.,Positive,2026-02-23
+297,Divya,SQL,Kavitha S,5,Loved the practical sessions.,Positive,2026-02-23
+298,Sneha,Data Analytics,Meena R,5,Excellent training with real-time projects.,Positive,2026-02-07
+299,Divya,React JS,Arun Kumar,5,Very useful course and supportive trainer.,Positive,2026-04-19
+300,Divya,Machine Learning,Sanjay Kumar,4,Very useful course and supportive trainer.,Positive,2026-03-09
